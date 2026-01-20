@@ -1,6 +1,22 @@
 # Advanced Image Splitter
 A Python GUI tool to split large images into printable pages for posters or banners, with customizable grids, overlaps, and assembly guides.
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 ## Overview
 This application allows users to load an image and split it into multiple pages suitable for printing on standard paper sizes. It supports various page sizes, orientations, and output formats (PNG or PDF). The tool includes features like automatic scaling, overlap margins for easy assembly, cut marks, tile labels, and an optional assembly guide PDF.
 
@@ -68,8 +84,4 @@ python image_splitter.py
 - Ensure "arial.ttf" font is available for labels (system-dependent).
 - Cancel button available during processing.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first.
 
-## License
-MIT License. See LICENSE for details.
