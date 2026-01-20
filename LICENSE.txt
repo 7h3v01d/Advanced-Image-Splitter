@@ -1,4 +1,4 @@
-Advanced Image Splitter
+Advanced Image Splitter (aka image_splitter)
 Private Evaluation & Testing License (PETL) v1.0
 
 PRIVATE EVALUATION & TESTING LICENSE (PETL) v1.0
